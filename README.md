@@ -1,0 +1,4 @@
+Easy
+====
+
+Python Command Line Application That Makes Common Linux Command Line Operations A Breeze.
